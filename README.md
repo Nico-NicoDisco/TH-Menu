@@ -25,7 +25,7 @@ pip install
 
 ## ⚙️ Пример использования
 ```py
-from TH-Menu import SmartMenu
+from TH_Menu import SmartMenu
 import nextcord
 from nextcord.ext import commands
 
@@ -60,7 +60,7 @@ bot.run("")
 В случае если подкатегорий много
 
 ```py
-from TH-Menu import SmartMenu
+from TH_Menu import SmartMenu
 import nextcord
 from nextcord.ext import commands
 
