@@ -20,7 +20,7 @@
 Установка из GitHub:
 
 ```bash
-pip install 
+pip install TH_Menu
 ```
 
 ## ⚙️ Пример использования
