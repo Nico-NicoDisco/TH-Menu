@@ -23,9 +23,11 @@
 pip install git+.git
 ```
 Или клонируй репозиторий
+```bash
 git clone https://github.com/yourusername/discord-menu-core
 cd discord-menu-core
 pip install -e
+```
 
 ## ⚙️ Пример использования
 ```py
