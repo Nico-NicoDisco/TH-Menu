@@ -20,13 +20,7 @@
 Установка из GitHub:
 
 ```bash
-pip install git+.git
-```
-Или клонируй репозиторий
-```bash
-git clone https://github.com/yourusername/discord-menu-core
-cd discord-menu-core
-pip install -e
+pip install 
 ```
 
 ## ⚙️ Пример использования
